@@ -10,7 +10,7 @@ on:
   workflow_dispatch: 
 
 env:
-  REGION: us
+  REGION: us-east1
   REPOSITORY_NAME: github-gcp-lab
   MODEL_VERSION: latest
 

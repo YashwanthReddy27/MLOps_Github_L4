@@ -12,6 +12,7 @@ on:
 env:
   REGION: us
   REPOSITORY_NAME: github-gcp-lab
+  MODEL_VERSION: latest
 
 jobs:
   build_test_and_deploy:
